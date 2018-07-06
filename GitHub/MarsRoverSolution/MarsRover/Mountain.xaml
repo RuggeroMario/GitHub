@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="MarsRover.Mountain"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="90" d:DesignWidth="90">
+    <Grid>
+        <Polygon Margin="2" Fill="Brown" Points="2,78 78,78 40,2" StrokeThickness="3" Stroke="BurlyWood">            
+        </Polygon>
+    </Grid>
+</UserControl>
